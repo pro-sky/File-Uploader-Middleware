@@ -1,0 +1,27 @@
+{
+  "name": "@sujeet/file-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Reusable Node.js file uploader with support for S3 and local storage",
+  "keywords": [
+    "upload",
+    "s3",
+    "file",
+    "express",
+    "multer"
+  ],
+  "author": "Sujeet Yadav",
+  "license": "MIT",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pro-sky/File-Uploader-Middleware.git"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
