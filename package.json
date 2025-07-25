@@ -1,6 +1,6 @@
 {
-  "name": "@sujeet/file-uploader",
-  "version": "1.0.0",
+  "name": "sujeet_file-uploader",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "Reusable Node.js file uploader with support for S3 and local storage",
   "keywords": [
